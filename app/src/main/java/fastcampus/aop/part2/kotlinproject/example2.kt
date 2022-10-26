@@ -4,6 +4,10 @@ fun main(){
     println(a(4,3))
     println(b(5,7))
     checkNumber(100)
+    /*
+    * array List 문법 공부
+    * */
+
 }
 
 fun a(a:Int, b:Int):Int{
