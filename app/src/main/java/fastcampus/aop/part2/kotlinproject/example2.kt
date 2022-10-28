@@ -31,7 +31,7 @@ fun checkNumber(score:Int){
         else -> 2
     }
     when(score){
-        in 90..100-> println("gret")
+        in 90..100-> println("great")
         in 10..80->println("fuck")
         else ->println("아무것도 포함되지 않는다")
     }

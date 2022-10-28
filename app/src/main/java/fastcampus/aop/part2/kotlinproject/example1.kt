@@ -7,6 +7,7 @@ fun main(){
     val name:String="cherwoo"
     println("my name is ${name}")
     println("money is 2\$a")
+    println(add1(1,2))
 }
 /*
 *
@@ -19,6 +20,7 @@ fun helloworld(){
 fun add(a:Int, b:Int): Int {
     return a+b
 }
+fun add1(a:Int, b:Int) =a+b
 
 fun a(){
     val a:Int=2
