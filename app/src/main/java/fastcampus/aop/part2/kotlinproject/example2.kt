@@ -37,3 +37,7 @@ fun checkNumber(score:Int){
     }
     println("b : ${b}")
 }
+/*
+*
+*
+* */
